@@ -15,8 +15,8 @@
       institution: Hanyang University, Seoul, South Korea
       year: 2019-2024
       description:
-        - Supervisor: <a href="http://cna.hanyang.ac.kr/bbs/board.php?bo_table=sub3_1&wr_id=1">Jong-min Lee, PhD</a> 
-        - Thesis: Deep graph neural network-based sulcal pattern analyses in human brain surfaces
+        - Supervisor":" <a href="http://cna.hanyang.ac.kr/bbs/board.php?bo_table=sub3_1&wr_id=1">Jong-min Lee, PhD</a> 
+        - Thesis":" Deep graph neural network-based sulcal pattern analyses in human brain surfaces
       
     - title: B.S. in Biomedical Engineering
       institution: Hanyang University, Seoul, South Korea
@@ -56,6 +56,7 @@
       items:
         - (Korea, filed) Self-supervised framework using higher-order heuris- tic distillation for visual representation learning (KR 10-2024-0032115)
     - year: 12.2024
+      items:
         - (PCT, filed) Self-supervised framework using higher-order heuris- tic distillation for visual representation learning (PCT/KR2024/096956)
 
 
