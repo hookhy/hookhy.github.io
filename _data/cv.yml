@@ -27,19 +27,19 @@
   contents:
     - title: Research Fellow
       institution: Boston Children's Hospital, and Harvard Medical School, Boston, MA, United States
-      year: 2024-Present
+      year: 11.2024-Present
     - title: Visiting Scholar
       institution: Boston Children's Hospital, and Harvard Medical School, Boston, MA, United States
-      year: 2023
+      year: 02.2023-08.2023
 
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Medical Image Analysis.
+    - title: <b>Medical Image Analysis
       items:
         - Structural MRI (T1w, T2w, Diffusion-weighted, etc)
         - Functional MRI
-    - title: Graph Neural Networks (GNNs)
+    - title: <b>Graph Neural Networks (GNNs)
       items:
         - Predictive model ({Heterogeneous, Simplicial, Hypergraph}-neural networks)
         - Explainable GNN (Prototype-based models, posthoc analysis, etc)
