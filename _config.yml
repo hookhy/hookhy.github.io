@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <p style="font-family:cursive">Hyeokjin Kwon</p> # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Hyeokjin
 middle_name: 
 last_name: Kwon
