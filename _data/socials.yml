@@ -10,7 +10,7 @@
 email: hyeokjin.kwon@childrens.harvard.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: https://github.com/hookhy # your GitHub user name
+github_username: hookhy # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -20,7 +20,7 @@ github_username: https://github.com/hookhy # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: https://www.linkedin.com/in/hyeokjin-kwon-514a9b241 # your LinkedIn user name
+linkedin_username: hyeokjin-kwon-514a9b241 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -30,7 +30,7 @@ linkedin_username: https://www.linkedin.com/in/hyeokjin-kwon-514a9b241 # your Li
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
-scholar_userid: https://scholar.google.com/citations?user=JkHEb5kAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: JkHEb5kAAAAJ&hl=en&oi=ao # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
