@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I obtained my PhD in Hanyang University, South Korea :tada: :tada:
+I obtained my PhD in <a href="http://cna.hanyang.ac.kr/">Hanyang University</a>, South Korea :tada: :tada:
