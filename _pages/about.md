@@ -3,15 +3,17 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Research Fellow, Fetal Neonatal Neuroimage Data Science Center (*FNNDSC*). 
- Division of Newborn Medicine, **Boston Children's Hospital**  Department of Pediatrics, **Harvard Medical School**
+subtitle: Research Fellow, Fetal Neonatal Neuroimage Data Science Center (FNNDSC). 
+ <p>Division of Newborn Medicine, Boston Children's Hospital</p> 
+ <p>Department of Pediatrics, Harvard Medical School</p>
 
 profile:
   align: left
   image: IMG_3720.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>401 Park Ave, Boston, MA 02215</p>
+    <p>401 Park Ave</p>
+    <p>Boston, MA 02215</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
