@@ -30,4 +30,5 @@ My research primarily have focused on **graph neural networks** for analyzing va
 At my Postdoc career in FNNDSC, I've focused on analyzing abnormal cortical sulcal patterns in congenital heart disease using structural MRI-based surface models. Extending this work, I currently aims to develop **deep normative modeling of sulcal pattern graphs** through unsupervised learning to apply to various disorders.
 
 :pushpin: Email: <u>hyeokjin.kwon@childrens.harvard.edu</u>
+
 :pushpin: Address: 401 Park Ave, Boston, MA 02215, United States
