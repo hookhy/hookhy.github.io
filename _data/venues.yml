@@ -15,10 +15,13 @@
   color: "#009f36"
 
 "Eur. J. Neurol.":
-  color: "#00369f"
+  color: "#6495ED"
 
 "NeuroImage Clin.":
   color: "#7FFFD4"
 
 "Sci. Rep.":
   color: "#00BFFF"
+
+"ISWA":
+  color: "#B8860B"
