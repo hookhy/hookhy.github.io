@@ -431,15 +431,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-obtained-my-phd-in-hanyang-university-south-korea-tada-tada",
+          title: 'I obtained my PhD in Hanyang University, South Korea :tada: :tada:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-excited-to-start-my-postdoctoral-fellow-at-bch-hms-sunglasses-sparkles",
+          section: "News",},{id: "news-excited-to-start-my-postdoctoral-fellow-at-bch-hms-sunglasses-sparkles",
           title: 'Excited to start my Postdoctoral Fellow at BCH/HMS!! :sunglasses: :sparkles:',
           description: "",
           section: "News",},{id: "projects-project-1",
