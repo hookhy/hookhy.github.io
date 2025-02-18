@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: <a href='#'>Research Fellow</a>, Fetal Neonatal Neuroimage Data Science Center (FNNDSC).   Devision of Newborn Medicine, Boston Children's Hospital | Department of Pediatrics, Harvard Medical School
+subtitle: <a href='#'>Research Fellow</a>, Fetal Neonatal Neuroimage Data Science Center (*FNNDSC*).   Division of Newborn Medicine, **Boston Children's Hospital**   Department of Pediatrics, **Harvard Medical School**
 
 profile:
   align: right
@@ -28,8 +28,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Research Fellow at the Fetal-Neonatal Neuroimaging Developmental Science Center (FNNDSC) at Boston Children’s Hospital, Harvard Medical School. I obtained my PhD in Electronic Engineering from **Hanyang University, South Korea**, in August 2024. My research primarily have focused on **graph neural networks** for analyzing various graph-structured data based on multimodal brain imaging. 
+At my Postdoc. career in FNNDSC, I've focused on analyzing abnormal cortical sulcal patterns in congenital heart disease using structural MRI-based surface models. Extending this work, I currently aims to develop deep normative modeling of sulcal pattern graphs through unsupervised learning to apply to various disorders.
