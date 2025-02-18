@@ -2,32 +2,26 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hyeokjin kwon
     - name: Date of Birth
-      value: 14th March 1879
+      value: 30th December 1994
     - name: Languages
-      value: English, German
+      value: Korean (native), English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Electronic Engineering
+      institution: Hanyang University, Seoul, South Korea
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+        - Supervisor: <a href="http://cna.hanyang.ac.kr/bbs/board.php?bo_table=sub3_1&wr_id=1">Jong-min Lee, PhD</a> 
+        - Thesis: Deep graph neural network-based sulcal pattern analyses in human brain surfaces
+      
+    - title: B.S. in Biomedical Engineering
+      institution: Hanyang University, Seoul, South Korea
+      year: 2019
+  
 - title: Experience
   type: time_table
   contents:
