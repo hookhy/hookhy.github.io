@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: <font color="#990099">Research Fellow</font> Fetal Neonatal Neuroimage Data Science Center (<b>FNNDSC). <br>Division of Newborn Medicine, <b>Boston Children's Hospital</b> <br>Department of Pediatrics, <b>Harvard Medical School</b>
+subtitle: <font color="#990099">Research Fellow</font> at Fetal Neonatal Neuroimage Data Science Center (<b>FNNDSC). <br>Division of Newborn Medicine, <b>Boston Children's Hospital</b> <br>Department of Pediatrics, <b>Harvard Medical School</b>
 
 profile:
   align: left
