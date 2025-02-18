@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Research Fellow, Fetal Neonatal Neuroimage Data Science Center (FNNDSC). 
- <p>Division of Newborn Medicine, Boston Children's Hospital</p> 
- <p>Department of Pediatrics, Harvard Medical School</p>
+subtitle: <font color="purple">Research Fellow,</font> Fetal Neonatal Neuroimage Data Science Center (<i>FNNDSC).
+Division of Newborn Medicine, <b>Boston Children's Hospital
+Department of Pediatrics, <b>Harvard Medical School
 
 profile:
   align: left
