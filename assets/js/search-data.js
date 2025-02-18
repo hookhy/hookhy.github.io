@@ -445,21 +445,21 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/hookhy", "_blank");
+          window.open("https://github.com/hookhy", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/hyeokjin-kwon-514a9b241", "_blank");
+          window.open("https://www.linkedin.com/in/hyeokjin-kwon-514a9b241", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=JkHEb5kAAAAJ&hl=en", "_blank");
+          window.open("https://scholar.google.com/citations?user=JkHEb5kAAAAJ&hl=en&oi=ao", "_blank");
         },
       },{
       id: 'light-theme',
