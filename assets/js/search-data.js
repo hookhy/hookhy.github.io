@@ -431,10 +431,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-i-obtained-my-phd-in-hanyang-university-south-korea-tada-tada",
+    },{id: "news-i-obtained-my-phd-in-hanyang-university-south-korea-tada-tada",
           title: 'I obtained my PhD in Hanyang University, South Korea :tada: :tada:',
           description: "",
           section: "News",},{id: "news-excited-to-start-my-postdoctoral-fellow-at-bch-hms-sunglasses-sparkles",
