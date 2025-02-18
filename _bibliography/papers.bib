@@ -33,3 +33,21 @@
   html={https://doi.org/10.1016/j.iswa.2024.200345},
   pdf={kwon2024_cell.pdf}
 }
+
+@article{kwon2022sparse,
+  title={Sparse Hierarchical Representation Learning on Functional Brain Networks for Prediction of Autism Severity Levels},
+  author={Kwon*, Hyeokjin and Kim*, Johanna Inhyang and Son, Seung-Yeon and Jang, Yong Hun and Kim, Bung-Nyun and Lee†, Hyun Ju and Lee†, Jong-Min},
+  journal={Frontiers in Neuroscience},
+  volume={16},
+  pages={935431},
+  year={2022},
+  publisher={Frontiers Media SA},
+  bibtex_show={true},
+  abstract={Machine learning algorithms have been widely applied in diagnostic tools for autism spectrum disorder (ASD), revealing an altered brain connectivity. However, little is known about whether an magnetic resonance imaging (MRI)-based brain network is related to the severity of ASD symptoms in a large-scale cohort. We propose a graph convolution neural network-based framework that can generate sparse hierarchical graph representations for functional brain connectivity. Instead of assigning initial features for each node, we utilized a feature extractor to derive node features and the extracted representations can be fed to a hierarchical graph self-attention framework to effectively represent the entire graph. By incorporating connectivity embeddings in the feature extractor, we propose adjacency embedding networks to characterize the heterogeneous representations of the brain connectivity. Our proposed model variants outperform the benchmarking model with different configurations of adjacency embedding networks and types of functional connectivity matrices. Using this approach with the best configuration (SHEN atlas for node definition, Tikhonov correlation for connectivity estimation, and identity-adjacency embedding), we were able to predict individual ASD severity levels with a meaningful accuracy: the mean absolute error (MAE) and correlation between predicted and observed ASD severity scores resulted in 0.96, and r = 0.61 (P < 0.0001), respectively. To obtain a better understanding on how to generate better representations, we investigate the relationships between the extracted feature embeddings and the graph theory-based nodal measurements using canonical correlation analysis. Finally, we visualized the model to identify the most contributive functional connections for predicting ASD severity scores.}
+  html={https://doi.org/10.3389/fnins.2022.935431},
+  pdf={kwon2022_sparse.pdf},
+  selected={true},
+  preview={sparse_figure4.jpg},
+  annotation={* Co-first authors<br>† Corresponding author(s)},
+  abbr={Front. Neurosci.}
+}
