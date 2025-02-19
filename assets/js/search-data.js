@@ -375,8 +375,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-obtained-my-phd-in-hanyang-university-south-korea-tada-tada",
-          title: 'I obtained my PhD in Hanyang University, South Korea :tada: :tada:',
+    },{id: "news-i-obtained-my-phd-in-hanyang-university-seoul-south-korea-tada-tada",
+          title: 'I obtained my PhD in Hanyang University, Seoul, South Korea :tada: :tada:',
           description: "",
           section: "News",},{id: "news-excited-to-start-my-postdoctoral-research-fellow-at-bch-hms-sunglasses-sparkles",
           title: 'Excited to start my Postdoctoral Research Fellow at BCH/HMS!! :sunglasses: :sparkles:',
