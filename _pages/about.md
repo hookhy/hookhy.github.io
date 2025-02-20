@@ -27,7 +27,8 @@ latest_posts:
 
 I'm hyeokjin (hyeok-jin), a postdoctoral research fellow at BCH/HMS, Boston, MA, U.S., supervised by <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/89430">Dr. Kiho Im</a>. My research primarily have focused on <b>AI-based quantitative analysis of brain development</b> and analyzing graph-structured data from brain imagings. 
 
-My predoctoral career focused on analyzing abnormal cortical sulcal patterns in congenital heart disease using AI-based model. Examining the altered arrangement and patterning of sulcal folds is known to provide valuable insights into the mechanisms underlying neurodevelopmental differences in psychiatric and neurological disorders. Building on this approach, I aim to extend its applicability to a wide range of disorders by employing unsupervised deep learning to apply a normative modeling for cortical sulcal patterns.
+My predoctoral career focused on analyzing abnormal cortical sulcal patterns in congenital heart disease using AI-based model. Examining the altered arrangement and patterning of 
+sulcal folds is known to provide valuable insights into the mechanisms underlying neurodevelopmental differences in psychiatric and neurological disorders. Building on this approach, I aim to extend its applicability to a wide range of disorders by employing unsupervised deep learning to apply a normative modeling for cortical sulcal patterns.
 
 
 :pushpin: Email: <u>hyeokjin.kwon@childrens.harvard.edu</u>
