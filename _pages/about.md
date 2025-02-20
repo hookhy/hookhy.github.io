@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm hyeokjin (hyeok-jin), a Postdoctoral research fellow at BCH/HMS, Boston, MA, U.S., supervised by <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/89430">FNNDSC</a>Dr. Kiho Im</a>. My research primarily have focused on **graph neural networks** for analyzing various graph-structured data based on multimodal brain imaging. 
+I'm hyeokjin (hyeok-jin), a postdoctoral research fellow at BCH/HMS, Boston, MA, U.S., supervised by <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/89430">FNNDSC</a>Dr. Kiho Im</a>. My research primarily have focused on **graph neural networks** for analyzing various graph-structured data based on multimodal brain imaging. 
 
 At my Postdoc career in FNNDSC, I've focused on analyzing abnormal cortical sulcal patterns in congenital heart disease using structural MRI-based surface models. Extending this work, I currently aims to develop **deep normative modeling of sulcal pattern graphs** through unsupervised learning to apply to various disorders.
 
