@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper has been accepted to Medical Image Analysis :brain: (JCR 2023 IF 10.7, RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING 3/204) :tada:
+A paper has been accepted to <b>Medical Image Analysis</b> :brain: (JCR 2023 IF 10.7, RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING 3/204) :tada:
