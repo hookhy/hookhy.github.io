@@ -375,8 +375,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-joined-bch-hms-as-a-visiting-scholar-until-aug-2023-sparkles",
-          title: 'I joined BCH/HMS as a visiting scholar until Aug. 2023 :sparkles:',
+    },{id: "news-i-joined-bch-hms-boston-ma-usa-as-a-visiting-scholar-until-aug-2023-sparkles",
+          title: 'I joined BCH/HMS, Boston, MA, USA, as a visiting scholar until Aug. 2023...',
           description: "",
           section: "News",},{id: "news-i-obtained-my-phd-in-hanyang-university-seoul-south-korea-baby",
           title: 'I obtained my PhD in Hanyang University, Seoul, South Korea :baby:',
