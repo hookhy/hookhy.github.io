@@ -43,6 +43,10 @@
         - Explainable GNN (Prototype-based models, posthoc analysis, etc)
         - Multiplex/temporal graphs
         - Generative AI (Graph Transformer, Graph Diffusion, etc)
+    - title: <b>Cortical Sulcal Pattern Analysis
+      items:
+        - Quantitative analysis using AI (like GNN)
+        - Congenital Heart Disease (CHD), Autism Spectrum Disorder (ASD), etc
 
 - title: Patents
   type: time_table
