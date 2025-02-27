@@ -384,7 +384,7 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-start-a-new-position-as-postdoctoral-research-fellow-at-bch-hms-sparkles",
           title: 'Excited to start a new position as Postdoctoral Research Fellow at BCH/HMS!! :sparkles:...',
           description: "",
-          section: "News",},{id: "news-a-paper-has-been-accepted-to-medical-image-analysis-brain-jcr-2023-if-10-7-radiology-nuclear-medicine-amp-amp-medical-imaging-3-204-tada",
+          section: "News",},{id: "news-a-paper-has-been-accepted-to-medical-image-analysis-brain-jcr-2023-if-10-7-ranked-3-204-in-radiology-nuclear-medicine-amp-amp-medical-imaging-tada",
           title: 'A paper has been accepted to Medical Image Analysis :brain: (JCR 2023 IF...',
           description: "",
           section: "News",},{id: "projects-project-1",
