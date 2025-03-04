@@ -14,7 +14,7 @@
       year: 2019-2024
       description:
         - <b>Supervisor</b> <a href="http://cna.hanyang.ac.kr/bbs/board.php?bo_table=sub3_1&wr_id=1">Jong-Min Lee, PhD</a> 
-        - <b>Thesis</b> Deep graph neural network-based sulcal pattern analyses in human brain surfaces
+        - <b>Thesis</b> Deep graph neural network-based sulcal pattern analyses in human brain surfaces, Hanyang University
       
     - title: B.S. in Biomedical Engineering
       institution: Hanyang University, Seoul, South Korea
@@ -61,4 +61,15 @@
       items:
         - (Korea, filed) Self-supervised framework using higher-order heuristic distillation for visual representation learning (KR 10-2024-0032115)
 
-
+- title: Professional Meetings
+  type: nested_list
+  contents:
+    - title: <b>Abstract, Poster Presentations
+      items:
+        - <b>Kwon H</b>, S Son, Lee JM (2022) Sparse hierarchical learning on brain networks for prediction of ASD severity. Annual Meeting of the Organization for Human Brain Mapping
+        - <b>Kwon H</b>, Yoo HS, Kim KH, Lee JM (2023) Altered structural connectivity of self-awareness of cognitive deﬁcits in Parkinson’s disease. Annual Meeting of the Organization for Human Brain Mapping
+        - <b>Kwon H</b>, Morton S, Rivkin M, Wypij D, Robertson R, Newburger JW, Grant PE, Lee JM, Im K (2023) Identification of atypical sulcal patterns using prototype-based graph learning on subjects with congenital heart dissease. Massachusetts Institute of Technology & Mass General Brigham AI Cures Conference
+        - <b>Kwon H</b>, Im K, Lee JM (2024) Identification of atypical sulcal patterns using prototype-based graph learning on congenital heart disease. Annual Meeting of the Organization for Human Brain Mapping
+    - title: <b>Oral Presentations
+      items:
+        - Graph-based Prototype Inverse Projection for Identifying Cortical Sulcal Pattern Abnormalities on Congenital Heart Disease (2023) Korean Society for Human Brain Mapping, South Korea
