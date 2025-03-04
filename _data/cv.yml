@@ -48,6 +48,15 @@
         - Quantitative analysis using AI (like GNN)
         - Congenital Heart Disease (CHD), Autism Spectrum Disorder (ASD), etc
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Student-led Interdisciplinary Research Program Fellowship
+      institution: Hanyang University Institute of Artificial Intelligence, Seoul, Korea
+      year: 2021-2022
+      description: Received an award of 1,200k KRW [~800 USD] to support AI-related interdisciplinary research.
+       
+
 - title: Patents
   type: time_table
   contents:
