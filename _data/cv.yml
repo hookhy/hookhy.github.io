@@ -51,12 +51,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Student-led Interdisciplinary Research Program Fellowship
+    - title: Student-led Interdisciplinary Research Program
       institution: Hanyang University Institute of Artificial Intelligence, Seoul, Korea
       year: 07.2021-06.2022
       description: 
         - Received an award of 1,200k KRW [~$800] to support AI-related interdisciplinary research.
-        - This project aims to develop a new AI method for peripheral blood smear examination. This results to a scientific journal and two filed patents.
        
 
 - title: Patents
