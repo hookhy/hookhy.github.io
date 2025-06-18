@@ -384,7 +384,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-has-been-accepted-to-medical-image-analysis-tada",
           title: 'A paper has been accepted to Medical Image Analysis :tada:',
           description: "",
-          section: "News",},{id: "news-excited-to-share-that-my-first-funded-project-titled-advancing-neurodevelopmental-prognosis-in-congenital-heart-disease-ai-driven-methods-using-cortical-sulcal-patterns-has-been-awarded-by-the-thrasher-research-fund-early-career-program-award-tada",
+          section: "News",},{id: "news-excited-to-share-that-my-first-funded-project-titled-advancing-neurodevelopmental-prognosis-in-congenital-heart-disease-ai-driven-methods-using-cortical-sulcal-patterns-has-been-awarded-by-thrasher-research-fund-s-early-career-program-award-tada",
           title: 'Excited to share that my first funded project, titled “Advancing Neurodevelopmental Prognosis in...',
           description: "",
           section: "News",},{id: "projects-project-1",
