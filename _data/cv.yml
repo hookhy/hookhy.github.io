@@ -51,6 +51,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: Early Career Award Program (ECAP)
+      institution: Thrasher Research Fund
+      year: 07.2025-
+      description: 
+        - I am awarded this early career grant as PI (TDC $12,500/yr).
+        - Advancing Neurodevelopmental Prognosis in Congenital Heart Disease-AI-Driven Methods Using Cortical Sulcal Patterns
     - title: Student-led Interdisciplinary Research Program
       institution: Hanyang University Institute of Artificial Intelligence, Seoul, Korea
       year: 07.2021-06.2022
